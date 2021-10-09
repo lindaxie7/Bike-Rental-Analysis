@@ -4,7 +4,7 @@
 This analysis aims to break down the ridership demographics, to show which stations are more heavily, peak Hours by weekday, peak hours by gender, and the check out times by gender, to give an overview of bike use.
 
 ### The data we are working with:
-
+![Untitled](https://user-images.githubusercontent.com/38533045/136671349-28a9c5cb-220e-45d1-91b1-a29ae4511a3c.png)
 
 
 ### Purpose
