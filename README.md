@@ -53,9 +53,9 @@ Is the user a customer or a subscribes?
 Most likely a subscribe. 
 
 Two additional visualizations suggestion for future analysis:
-We could include average duration for each trip based on: Trip and User Type. 
- 
-We could also inclue What season is the most popular season for using citi bikes?
+- We could include average duration for each trip based on: Trip and User Type. 
+
+- We could also inclue What season is the most popular season for using citi bikes?
 December — Feb. = Winter
 March — May = Spring
 June — Aug. = Summer
