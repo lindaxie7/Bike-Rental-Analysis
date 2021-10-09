@@ -8,9 +8,11 @@ This analysis aims to break down the ridership demographics, to show which stati
 
 
 ### Purpose
-Show the length of time that bikes are checked out for all riders and genders.
-Show the number of bike trips for all riders and genders for each hour of each day of the week.
-Show the number of bike trips for each type of user and gender for each day of the week.
+- Show the length of time that bikes are checked out for all riders and genders.
+
+- Show the number of bike trips for all riders and genders for each hour of each day of the week.
+
+- Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results
 - Checkout Times for Users, we can see that most people check out the bikes for less than 20 minutes, and the peak duration is about 10 minutes. Visualization:
