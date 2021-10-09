@@ -34,12 +34,10 @@ https://public.tableau.com/app/profile/linda6647/viz/CreatetheTripsbyGenderWeekd
 https://public.tableau.com/app/profile/linda6647/viz/CreatetheUserTripsbyGenderbyWeekdayViz/Sheet1?publish=yes
 
 
-- Most popular start stations, we can see that the top 5 popular start stations are:
-Visualization:
+- Most popular start stations,Visualization:
 https://public.tableau.com/app/profile/linda6647/viz/theTopBikeStationsintheCityforStartingaJourney/Sheet1?publish=yes
 
-- Most popular end stations, we can see that the top 5 popular end stations are:
-Visualization:
+- Most popular end stations,Visualization:
 https://public.tableau.com/app/profile/linda6647/viz/TheTopBikeStationsforEndingaJourney/Sheet1?publish=yes
 
 
