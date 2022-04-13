@@ -1,5 +1,7 @@
 # NYC-CitiBike-Analysis
 
+[Python Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+
 ## Overview of Project
 This analysis aims to break down the ridership demographics, to show which stations are more heavily, peak Hours by weekday, peak hours by gender, and the check out times by gender, to give an overview of bike use.
 
