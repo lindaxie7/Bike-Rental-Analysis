@@ -1,4 +1,4 @@
-# NYC-CitiBike-Analysis
+#  Bike-Rental-Analysis
 
 [Data Cleaning Code](https://github.com/lindaxie7/NYC-CitiBike-Analysis/blob/main/NYC_CitiBike_Challenge_starter_code.ipynb)
 
