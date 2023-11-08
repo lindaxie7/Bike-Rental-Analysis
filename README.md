@@ -1,7 +1,8 @@
 #  Bike-Rental-Analysis
 
 [Data Cleaning Code](https://github.com/lindaxie7/NYC-CitiBike-Analysis/blob/main/NYC_CitiBike_Challenge_starter_code.ipynb)
-[ Story telling] (https://public.tableau.com/app/profile/linda6647/viz/bikeanalysis-story/PresentationStory?publish=yes)
+[Story Telling]([https://github.com/lindaxie7/NYC-CitiBike-Analysis/blob/main/NYC_CitiBike_Challenge_starter_code.ipynb](https://public.tableau.com/app/profile/linda6647/viz/bikeanalysis-story/PresentationStory?publish=yes))
+
 
 ## Overview of Project
 This analysis aims to break down the ridership demographics, to show which stations are more heavily, peak Hours by weekday, peak hours by gender, and the check out times by gender, to give an overview of bike use.
